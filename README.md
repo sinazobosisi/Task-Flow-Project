@@ -1,2 +1,2 @@
 # Task-Flow-Project
-This project is about the system we created that can be used be it for school project or work reminders and keep you updated.
+The Task Flow Project is designed to improve task management by creating a structured workflow that helps the team track progress, manage deadlines, and complete tasks on time. It ensures that each task is monitored from submission to completion, making it easier to identify outstanding tasks, measure progress, and generate reports on time.
